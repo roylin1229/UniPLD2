@@ -8,6 +8,6 @@ The source code for this project will be made **open-source** on GitHub followin
 
 ## UniPLD2 for Visual Localization
 
-[![](https://github.com/roylin1229/E2LSD/blob/main/loc_demo.gif)](https://drive.google.com/file/d/1kr8EqvrS4JAB7krVde5xMZj6mSvNn6CC/view?usp=sharing)  
+[![](https://github.com/roylin1229/UniPLD2/blob/main/loc_demo.gif)](https://drive.google.com/file/d/1kr8EqvrS4JAB7krVde5xMZj6mSvNn6CC/view?usp=sharing)  
 
 Google Drive: https://drive.google.com/file/d/1kr8EqvrS4JAB7krVde5xMZj6mSvNn6CC/view?usp=sharing    
